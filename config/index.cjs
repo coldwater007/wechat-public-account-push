@@ -23,7 +23,7 @@ const USER_CONFIG = {
     {
       // 想要发送的人的名字
       name: '宝贝',
-      // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+      // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到1	一只老风铃	omvZI67KQ-o-vSvu3UH2OurKFIWQ
       id: 'omvZI67KQ-o-vSvu3UH2OurKFIWQ',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '0001',
@@ -60,7 +60,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'omvZI67KQ-o-vSvu3UH2OurKFIWQ',
     }
   ],
 
